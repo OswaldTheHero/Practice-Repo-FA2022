@@ -4,7 +4,7 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
 - Course 2
 
@@ -16,12 +16,10 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Back to the Future
 
-- Thing 2
+- Gaming
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Engineering
 
-***
-
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
