@@ -1,4 +1,4 @@
-## Student Name (or name you would preferred to be called)
+## Brian Diaz
 
 ### Spring 2023
 
@@ -6,11 +6,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Intro to Data Science
 
-- Course 2
+- Principles of Microeconomics
 
-- Course 3
+- Intro to Entrepernurship
 
-- Course 4
+- Law class
 
 **Hobbies:**
 
